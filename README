@@ -3,7 +3,7 @@ Game is just like Flappy Bird. Save the Helicopter (instead of Bird
 in a conventional Flappy Bird Game) from colliding against the Hurdles
 and boundaries. Maintain the elevation of helicopter using Arrow Keys.
 There's a lot of gravity(ha ha ha..). The speed of hurldles incoming 
-increases as the score inscreases.
+increases as the score increases.
 
 Requirements:
 1. Python 2.7 (sudo apt-get install python)
