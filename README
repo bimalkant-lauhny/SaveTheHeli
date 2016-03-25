@@ -1,0 +1,18 @@
+This game is written in Python 2.7 using pygame module and is tested on Ubuntu 15.10.
+Game is just like Flappy Bird. Save the Helicopter (instead of Bird 
+in a conventional Flappy Bird Game) from colliding against the Hurdles
+and boundaries. Maintain the elevation of helicopter using Arrow Keys.
+There's a lot of gravity(ha ha ha..). The speed of hurldles incoming 
+increases as the score inscreases.
+
+Requirements:
+1. Python 2.7 (sudo apt-get install python)
+2. Pygame module (sudo apt-get install python-pygame) 
+
+How to run?
+
+Get into the directory, using terminal, where source files are saved.
+Type 'python heli.py' (without quotes) and hit enter.
+Enjoy.
+
+Enhancements and Improvements are welcome.
